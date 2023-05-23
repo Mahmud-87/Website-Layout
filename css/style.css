@@ -1,0 +1,53 @@
+/* Univercel selector */
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.row {
+  width: 100%;
+  float: left;
+}
+
+#section1{
+  background-color: aqua;
+  height: 300px;
+  width:100%;
+  float: left;
+}
+.container {
+  width: 90%;
+  margin: auto;
+  background-color: aliceblue;
+}
+div {
+  height: 100px;
+  border: 1px solid black;
+}
+
+.div1 {
+  width: 25%;
+  float: left;
+}
+.div2 {
+  width: 30%;
+  float: left;
+}
+
+.div3 {
+  width: 25%;
+  float: left;
+}
+.div4 {
+  width: 20%;
+  float: left;
+}
+
+#section2 {
+  background-color: blueviolet;
+  height: 100px;
+}
